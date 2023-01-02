@@ -13,5 +13,6 @@
     </ion-toolbar>
   </ion-header>
 
-  <app-explore-container name="Tab 1 page"></app-explore-container>
+  <highcharts-chart [Highcharts]="Highcharts" [options]="chartOptions"
+    style="width: 100%; height: 400px; display: block;"></highcharts-chart>
 </ion-content>
