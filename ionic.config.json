@@ -1,0 +1,7 @@
+{
+  "name": "kicknetics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
